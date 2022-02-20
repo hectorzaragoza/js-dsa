@@ -79,3 +79,23 @@ Recap:
 - Big O can give us a high level understanding of the time or space complexity of an algorithm.
 - We don't care about precision but only general trends (linear, quadratic, constant)
 - Time or space complexity (as measured by Big O) depends only on the algorithm, not the hardware used to run the algorithm.
+
+## How do objects and arrays work? (Through the lens of Big O)
+- Explain why adding elements to the beginning of an array is costly
+- compare and contrast runtime for arrays and objects and their built-in methods.
+
+-- Big O of objects
+Unordered, key value pairs
+- fast access, for insertion and removal, Both of these, and Access have O(1) and Searching has O(n)
+- .keys, .entries, .hasOwnProperty
+- The fact that it does not have an order, it does make them by default fast as opposed to array where the order matters.
+
+-- Big O of Arrays (ordered lists)
+- Each element has a numeric value as its index. Use them when you need order. (But also consider linked lists)
+- Insertion and Removal, Big O depends
+- Searching is O(n)
+- Access is O(1)
+- Push and pop are always faster than shift and unshift.
+- Big O of Array Methods
+    -  foreach, filter, map, reduce O(N)
+    - sort - O(N*log N) for some of them.
