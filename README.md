@@ -99,3 +99,61 @@ Unordered, key value pairs
 - Big O of Array Methods
     -  foreach, filter, map, reduce O(N)
     - sort - O(N*log N) for some of them.
+
+## Algorithms and Problem Solving Patterns
+- How can you go about figuring out to solve problems?
+- What are some code archetypes to look out for?
+
+What is an algorithm?
+- a process or set of steps to accomplish a certain task.
+- It's the foundation for being a successful problem solver and developer.
+
+How to improve?
+1) Devise a plan for solving problems
+2) Master common problem solving patterns
+
+### Problem solving
+    - Understand the problem
+    - Explore concrete examples
+    - Break it down
+    - Solve / Simplify
+    - Look back and refactor
+
+1) Understanding the problem.
+    - Before jumpin into the code. Make sure you ask clarifying questions to get a clear understanding of the problem. (Keep in mind the edge cases)
+    a) Can I restate the problem in my own words?
+    b) What are the inputs that go into the problem?
+    c) What are the outputs?
+    d) Can the outputs be determined from the inputs? Do I have enough information to answer this problem?
+    e) How should I label the important pieces of data that are a part of the problem?
+
+2) Exploring concrete examples
+    - Examples also provide sanity checks that your eventual solution works how it should.
+    - e.g. User Stories, Unit Tests
+    - Start with simple examples
+    - Progress to more complex examples
+    - Explore examples with empty inputs, then with invalid inputs.
+
+3) Break it down
+    - little comments, pseudocode.
+    - Interviewers want to hear how you think and communicate your process.
+    - Explicitly write out the steps you need to take.
+    - Forces you to think about the code you'll write before you write it, and helps you catch any linkgering conceptual issues or misunderstandings before you dive in.
+
+4) Solve or Simplify
+    - Solve the problem, if you can't solve a simpler problem. Maybe ignore the part that is difficult for you, focus on what you know how to do and then return to incorporate the harder part that you know you might get stuck on instead of getting stuck  on the hard part and not making any progress whatsoever.
+
+5) Look back and refactor (Maybe has the most room for growth as a developer)
+    - can you check the result
+    - can you derive the answer differently
+    - can you understand it at a glance
+    - can you use the result or method for some other problem?
+    - can you improve the performance of your solution?
+    - can you think of other ways to refactor?
+    - How have other people solved this problem?
+
+Recap!
+- Understand the problem!
+- You can ask questions (clarifying) of your interview. 
+- Take the time to think through the problem and potential solutions and edge cases
+- How do you handle errors?
