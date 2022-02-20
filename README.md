@@ -157,3 +157,16 @@ Recap!
 - You can ask questions (clarifying) of your interview. 
 - Take the time to think through the problem and potential solutions and edge cases
 - How do you handle errors?
+
+
+## Problem Solving Patterns
+- Master common problem solving patterns
+    - Some patterns
+    - Frequency counter
+    - Multiple pointers
+    - sliding window
+    - Divide and Conquer
+    - Dynamic Programming
+    - Greedy Algorithms
+    - Backtracking
+    - More...
