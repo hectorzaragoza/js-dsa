@@ -1,0 +1,20 @@
+{
+  "name": "dsa_javascript",
+  "version": "1.0.0",
+  "description": "- Big O Notation\r - Analyzing performance\r - Problem Solving Approach\r - Problem Solving Patterns\r - Recursion\r - Searching Algorithms\r - Sorting Algorithms\r     - Bubble, Selection, Insertion, Merge, Quick, Radix\r - Intro to Data Structures\r - Singly, Doubly linked lists\r - Stacks and Queues\r - Binary Search Trees\r - Tree Traversal\r - Binary Heaps\r - Hash Tables\r - Graphs/Graph Traversal\r - Dijkstra's Algorithm",
+  "main": "bigo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorzaragoza/js-dsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorzaragoza/js-dsa/issues"
+  },
+  "homepage": "https://github.com/hectorzaragoza/js-dsa#readme"
+}
