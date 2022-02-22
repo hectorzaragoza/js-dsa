@@ -171,3 +171,9 @@ Recap!
         - Backtracking
         - More...
 
+## Recursion
+- Iterative is the counterpart to Recursion
+- Martin and the Dragon Story
+- Two essential components of a recursive function
+- Visualize the call stack to better debug and understand recursive functions
+- Use helper method recursion and pure recursion to solve more difficult problems
