@@ -161,12 +161,13 @@ Recap!
 
 ## Problem Solving Patterns
 - Master common problem solving patterns
-    - Some patterns
-    - Frequency counter
-    - Multiple pointers
-    - sliding window
-    - Divide and Conquer
-    - Dynamic Programming
-    - Greedy Algorithms
-    - Backtracking
-    - More...
+    - Some patterns include: 
+        - Frequency counter
+        - Multiple pointers
+        - sliding window
+        - Divide and Conquer
+        - Dynamic Programming
+        - Greedy Algorithms
+        - Backtracking
+        - More...
+
