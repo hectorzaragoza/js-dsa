@@ -196,3 +196,8 @@ Recap!
 
 
 # Intermediate Sorting Algorithms
+- They are faster but more complex than the elementary ones. (Don't be scared)
+- Merge Sort, Quick Sort, Radix Sort. (These scale well)
+- These can improve time complexity from O(n^2) to O(n log n)
+- There is a tradoff between efficiency and simplicity
+- The more efficient algorithms are much less simple, and generally take longer to understand.
