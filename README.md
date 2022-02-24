@@ -177,3 +177,22 @@ Recap!
 - Two essential components of a recursive function
 - Visualize the call stack to better debug and understand recursive functions
 - Use helper method recursion and pure recursion to solve more difficult problems
+
+## Searching Algorithms
+
+## Sorting Algorithms
+- Rearranging item in a collection so that the items are in some kind of order.
+- Ex. sorting numbers in desc or asc
+    - names alphabetically
+    - sort by any kind of attribute.
+
+- Why learn this?
+    - Sorting is an incredibly common task, so it's good to know how it works.
+    - There are many ways of sorting things, each with their own advantages and disadvantages.
+
+- We covered the elementary (or quadratic) sorting algorithms...Bubble, Insertion, Selection
+- Worst case is O(n^2) time complexity and have a space complexity of O(1)
+- All these are roughly equivalent
+
+
+# Intermediate Sorting Algorithms
