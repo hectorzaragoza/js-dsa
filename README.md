@@ -1,3 +1,6 @@
+
+
+
 ### DSA
 
 - Big O Notation
@@ -201,3 +204,39 @@ Recap!
 - These can improve time complexity from O(n^2) to O(n log n)
 - There is a tradoff between efficiency and simplicity
 - The more efficient algorithms are much less simple, and generally take longer to understand.
+- Comparison sorts, we are comparing two items at most at one time. (All the ones we've seen)
+
+
+
+
+
+
+MISC
+### 9 Tips for Technical Phone Interview with Clement Mihailescu (Operational Tips)
+1. GET IN THE ZONE. Respect the game before the game.
+2. Find a good location, that is private and quiet.
+3. Find out all the details about the interview, test as much as you can beforehand, utilize your recruiter.
+4. Make sure you have a good audio setp
+5. Check if the interviewer AND you can hear each other well.
+6. There can be latency, minimize the amount of pauses in your sentences,
+pass off the conversation to interviewer by finishing your sentences with, does that make sense?
+7. If you need to think, tell them. But not too often( interviewers usually want to hear you think out loud)
+8. Highlight what youre talking about on the screen
+9. Ask for next steps
+
+# Data Structures
+- Collections of values, the relationships among them, and the functions or operations that can be applied to the data.
+- Different data structures excel at different things.
+- Different ways of storing same type of data but relate them in different ways with different methods to act upon them.
+
+### Singly Linked Lists
+## Big O of Singly Linked Lists (Great for insertion or removal if you don't need random access)
+- Insertion - O(1)
+- removal, it depends O(1) or O(N)
+- Searching O(N)
+- Access O(N)
+
+- RECAP
+- Excellent alternative to arrays when insertion and deletion at the beginning are frequently required
+- Arrays contain a built in index whereas Linked Lists do not
+- The idea of a list data structure that consists of nodes is the foundation for other data structures like Stacks and Queues

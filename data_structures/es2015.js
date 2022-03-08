@@ -37,3 +37,14 @@ console.log(firstStudent.fullName())
 // Using the static keyword...Methods that are pertinent to classes but not necessarily for particular instances
 // They are called without instantiating their class and cannot be called through a class instance. Static
 // methods are often used to create utility functions for an application
+
+// We will be using the constructor and instance methods, for the most part.
+// 'this' keyword. Inside all of our instance methods and constructor, the keyword 'this' refers to the object
+// created from that class(also known as an instance)
+
+// RECAP
+// Classes are blueprints that when created make objects known as instances
+// Classes are created with the new keyword 
+// The constructor function is a special function that gets run when the class is instantiated
+// Instance methods can be added to classes similar to methods in objects
+// Class methods can be added using the static keyword
