@@ -130,5 +130,23 @@ class BinarySearchTree {
         traverse(this.root)
         return data
     }
+    // DFS InOrder
+    // Entire left side, visit the node, then the entire right side
+    DFSInOrder() {
+        let data = []
+        // Same as the other but the order of traversal and push is different
+        function traverse(node){
+            if(node.left) {
+                traverse(node.left)
+                data.push(node.value)
+            }
+            if(node.right) {
+                traverse(node.right)
+            }
+        }
+        traverse(this.root)
+        return data
+    }
 }
+
 
