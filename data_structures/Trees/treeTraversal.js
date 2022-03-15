@@ -149,4 +149,17 @@ class BinarySearchTree {
     }
 }
 
+// BFS or DFS, which is better? It depends
+/**
+ * Breadth First, lots of nodes to keep track of (a lot of space complexity as N grows larger)
+ * Depth First, Fewer nodes to keep track of
+ * Question to ask: Is the tree very wide or very deep? Because it will affect space complexity depending on how many nodes you have to keep track of.
+ */
 
+// RECAP
+/**
+ * Trees are non-linear data structures that contain a root and child nodes
+ * Binary trees can have values of any type, but at most two children for each parent
+ * Binary search trees are a more specific version of binary trees where every node to the left of a parent is less than it's value and every node to the right is greater
+ * We can search through trees using BFS and DFS
+ */
